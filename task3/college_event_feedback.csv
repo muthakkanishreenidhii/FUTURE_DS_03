@@ -1,0 +1,201 @@
+Student_ID,Event_Name,Rating,Feedback_Text,Suggestions
+1001,Workshop,2,Good effort but needs better management.,Keep up the good work.
+1002,Hackathon,3,Loved the activities and participation.,Increase event duration.
+1003,Sports Day,1,"Average experience, nothing special.",Invite more guest speakers.
+1004,Hackathon,1,Amazing coordination and energy.,Increase event duration.
+1005,Hackathon,4,Loved the activities and participation.,Add cultural programs.
+1006,Cultural Night,3,"Great event, really enjoyed it!",Provide more seating.
+1007,Sports Day,5,"Too crowded, could be improved.",Add cultural programs.
+1008,Sports Day,3,Loved the activities and participation.,Increase event duration.
+1009,Sports Day,4,Could improve in scheduling and planning.,Add cultural programs.
+1010,Hackathon,4,Could improve in scheduling and planning.,Improve food quality.
+1011,Workshop,3,Loved the activities and participation.,Invite more guest speakers.
+1012,Sports Day,4,Excellent! Learned a lot.,Better coordination.
+1013,Hackathon,3,"Too crowded, could be improved.",Provide more seating.
+1014,Cultural Night,2,"Great event, really enjoyed it!",Keep up the good work.
+1015,Workshop,3,Loved the activities and participation.,Add more workshops.
+1016,Cultural Night,3,Excellent! Learned a lot.,Better coordination.
+1017,Workshop,4,Could improve in scheduling and planning.,Add more workshops.
+1018,Hackathon,4,Could improve in scheduling and planning.,Invite more guest speakers.
+1019,Tech Fest,1,"Average experience, nothing special.",Provide more seating.
+1020,Workshop,1,Loved the activities and participation.,Need better scheduling.
+1021,Cultural Night,2,"Too crowded, could be improved.",Keep up the good work.
+1022,Hackathon,1,It was well organized.,Improve food quality.
+1023,Workshop,3,"Too crowded, could be improved.",Need better scheduling.
+1024,Tech Fest,4,Could improve in scheduling and planning.,Invite more guest speakers.
+1025,Tech Fest,1,Could improve in scheduling and planning.,Better coordination.
+1026,Sports Day,1,Good effort but needs better management.,Improve food quality.
+1027,Sports Day,2,Could improve in scheduling and planning.,Add cultural programs.
+1028,Cultural Night,2,"Great event, really enjoyed it!",Increase event duration.
+1029,Workshop,3,Food and facilities were disappointing.,Improve food quality.
+1030,Workshop,4,Loved the activities and participation.,Invite more guest speakers.
+1031,Sports Day,2,"Too crowded, could be improved.",Reduce entry fee.
+1032,Workshop,1,Food and facilities were disappointing.,Increase event duration.
+1033,Workshop,4,Excellent! Learned a lot.,Add more workshops.
+1034,Tech Fest,4,It was well organized.,Keep up the good work.
+1035,Sports Day,1,"Great event, really enjoyed it!",Add more workshops.
+1036,Hackathon,2,"Too crowded, could be improved.",Improve food quality.
+1037,Sports Day,1,Food and facilities were disappointing.,Add more workshops.
+1038,Hackathon,4,It was well organized.,Invite more guest speakers.
+1039,Tech Fest,5,Good effort but needs better management.,Add cultural programs.
+1040,Cultural Night,5,"Great event, really enjoyed it!",Better coordination.
+1041,Workshop,3,"Great event, really enjoyed it!",Keep up the good work.
+1042,Tech Fest,1,Good effort but needs better management.,Add more workshops.
+1043,Workshop,1,Loved the activities and participation.,Add more workshops.
+1044,Cultural Night,3,Good effort but needs better management.,Improve food quality.
+1045,Cultural Night,3,"Great event, really enjoyed it!",Better coordination.
+1046,Tech Fest,3,"Great event, really enjoyed it!",Need better scheduling.
+1047,Cultural Night,4,Food and facilities were disappointing.,Add more workshops.
+1048,Hackathon,1,Could improve in scheduling and planning.,Invite more guest speakers.
+1049,Cultural Night,4,It was well organized.,Reduce entry fee.
+1050,Workshop,3,Good effort but needs better management.,Keep up the good work.
+1051,Workshop,1,It was well organized.,Add more workshops.
+1052,Workshop,4,Good effort but needs better management.,Invite more guest speakers.
+1053,Workshop,4,Excellent! Learned a lot.,Invite more guest speakers.
+1054,Hackathon,3,"Great event, really enjoyed it!",Keep up the good work.
+1055,Sports Day,1,Could improve in scheduling and planning.,Need better scheduling.
+1056,Tech Fest,3,Food and facilities were disappointing.,Invite more guest speakers.
+1057,Workshop,1,Could improve in scheduling and planning.,Reduce entry fee.
+1058,Cultural Night,5,Could improve in scheduling and planning.,Invite more guest speakers.
+1059,Workshop,2,Could improve in scheduling and planning.,Invite more guest speakers.
+1060,Cultural Night,2,It was well organized.,Invite more guest speakers.
+1061,Cultural Night,2,Good effort but needs better management.,Add cultural programs.
+1062,Workshop,3,Amazing coordination and energy.,Add cultural programs.
+1063,Hackathon,5,Excellent! Learned a lot.,Need better scheduling.
+1064,Cultural Night,1,"Too crowded, could be improved.",Add more workshops.
+1065,Cultural Night,4,Could improve in scheduling and planning.,Invite more guest speakers.
+1066,Workshop,1,Loved the activities and participation.,Better coordination.
+1067,Cultural Night,4,It was well organized.,Add more workshops.
+1068,Cultural Night,1,Food and facilities were disappointing.,Need better scheduling.
+1069,Workshop,5,"Too crowded, could be improved.",Provide more seating.
+1070,Workshop,4,Amazing coordination and energy.,Add more workshops.
+1071,Tech Fest,3,Loved the activities and participation.,Add more workshops.
+1072,Hackathon,1,Amazing coordination and energy.,Increase event duration.
+1073,Hackathon,1,"Too crowded, could be improved.",Improve food quality.
+1074,Cultural Night,4,Could improve in scheduling and planning.,Increase event duration.
+1075,Hackathon,3,Loved the activities and participation.,Reduce entry fee.
+1076,Cultural Night,3,Amazing coordination and energy.,Add cultural programs.
+1077,Tech Fest,5,Food and facilities were disappointing.,Add cultural programs.
+1078,Workshop,3,Good effort but needs better management.,Improve food quality.
+1079,Workshop,3,"Great event, really enjoyed it!",Keep up the good work.
+1080,Workshop,3,Good effort but needs better management.,Keep up the good work.
+1081,Hackathon,2,"Too crowded, could be improved.",Need better scheduling.
+1082,Tech Fest,5,It was well organized.,Improve food quality.
+1083,Hackathon,1,"Great event, really enjoyed it!",Add more workshops.
+1084,Hackathon,4,Excellent! Learned a lot.,Keep up the good work.
+1085,Tech Fest,1,Food and facilities were disappointing.,Invite more guest speakers.
+1086,Tech Fest,5,Excellent! Learned a lot.,Better coordination.
+1087,Tech Fest,4,Loved the activities and participation.,Add more workshops.
+1088,Tech Fest,5,"Great event, really enjoyed it!",Reduce entry fee.
+1089,Workshop,3,Excellent! Learned a lot.,Invite more guest speakers.
+1090,Sports Day,4,Excellent! Learned a lot.,Invite more guest speakers.
+1091,Sports Day,3,Amazing coordination and energy.,Improve food quality.
+1092,Tech Fest,1,Good effort but needs better management.,Need better scheduling.
+1093,Sports Day,1,Amazing coordination and energy.,Reduce entry fee.
+1094,Sports Day,4,"Great event, really enjoyed it!",Keep up the good work.
+1095,Tech Fest,4,"Great event, really enjoyed it!",Improve food quality.
+1096,Sports Day,5,"Too crowded, could be improved.",Keep up the good work.
+1097,Hackathon,5,Amazing coordination and energy.,Improve food quality.
+1098,Cultural Night,3,"Average experience, nothing special.",Improve food quality.
+1099,Cultural Night,4,Good effort but needs better management.,Improve food quality.
+1100,Tech Fest,1,"Great event, really enjoyed it!",Need better scheduling.
+1101,Workshop,5,"Too crowded, could be improved.",Improve food quality.
+1102,Tech Fest,5,Amazing coordination and energy.,Provide more seating.
+1103,Workshop,1,Good effort but needs better management.,Better coordination.
+1104,Cultural Night,5,Amazing coordination and energy.,Keep up the good work.
+1105,Tech Fest,3,Excellent! Learned a lot.,Add more workshops.
+1106,Hackathon,4,"Too crowded, could be improved.",Increase event duration.
+1107,Sports Day,1,Good effort but needs better management.,Reduce entry fee.
+1108,Workshop,4,Could improve in scheduling and planning.,Add cultural programs.
+1109,Sports Day,5,Loved the activities and participation.,Need better scheduling.
+1110,Sports Day,5,Loved the activities and participation.,Add more workshops.
+1111,Tech Fest,1,Good effort but needs better management.,Invite more guest speakers.
+1112,Sports Day,3,Amazing coordination and energy.,Provide more seating.
+1113,Hackathon,2,"Too crowded, could be improved.",Add cultural programs.
+1114,Sports Day,1,Loved the activities and participation.,Increase event duration.
+1115,Tech Fest,2,"Too crowded, could be improved.",Add more workshops.
+1116,Hackathon,2,Loved the activities and participation.,Add cultural programs.
+1117,Cultural Night,3,Excellent! Learned a lot.,Add more workshops.
+1118,Sports Day,2,Amazing coordination and energy.,Provide more seating.
+1119,Tech Fest,2,Excellent! Learned a lot.,Increase event duration.
+1120,Cultural Night,3,Loved the activities and participation.,Invite more guest speakers.
+1121,Cultural Night,2,Could improve in scheduling and planning.,Improve food quality.
+1122,Workshop,2,Could improve in scheduling and planning.,Keep up the good work.
+1123,Hackathon,2,Excellent! Learned a lot.,Invite more guest speakers.
+1124,Sports Day,1,Could improve in scheduling and planning.,Improve food quality.
+1125,Tech Fest,1,Loved the activities and participation.,Need better scheduling.
+1126,Workshop,1,Good effort but needs better management.,Better coordination.
+1127,Hackathon,3,Excellent! Learned a lot.,Reduce entry fee.
+1128,Workshop,5,It was well organized.,Reduce entry fee.
+1129,Hackathon,2,Amazing coordination and energy.,Keep up the good work.
+1130,Hackathon,2,Could improve in scheduling and planning.,Increase event duration.
+1131,Sports Day,3,Could improve in scheduling and planning.,Provide more seating.
+1132,Hackathon,2,"Great event, really enjoyed it!",Increase event duration.
+1133,Workshop,1,"Average experience, nothing special.",Provide more seating.
+1134,Hackathon,5,Excellent! Learned a lot.,Increase event duration.
+1135,Sports Day,4,Food and facilities were disappointing.,Better coordination.
+1136,Sports Day,2,Could improve in scheduling and planning.,Need better scheduling.
+1137,Workshop,1,Amazing coordination and energy.,Need better scheduling.
+1138,Cultural Night,4,It was well organized.,Improve food quality.
+1139,Cultural Night,5,Could improve in scheduling and planning.,Add cultural programs.
+1140,Hackathon,4,It was well organized.,Need better scheduling.
+1141,Tech Fest,1,Loved the activities and participation.,Need better scheduling.
+1142,Hackathon,4,Loved the activities and participation.,Invite more guest speakers.
+1143,Workshop,3,"Average experience, nothing special.",Invite more guest speakers.
+1144,Workshop,4,Good effort but needs better management.,Improve food quality.
+1145,Workshop,2,Food and facilities were disappointing.,Add cultural programs.
+1146,Workshop,2,"Great event, really enjoyed it!",Keep up the good work.
+1147,Workshop,3,"Average experience, nothing special.",Invite more guest speakers.
+1148,Sports Day,1,"Too crowded, could be improved.",Keep up the good work.
+1149,Cultural Night,2,"Great event, really enjoyed it!",Add more workshops.
+1150,Workshop,5,Excellent! Learned a lot.,Invite more guest speakers.
+1151,Tech Fest,2,Amazing coordination and energy.,Better coordination.
+1152,Tech Fest,2,"Too crowded, could be improved.",Add cultural programs.
+1153,Tech Fest,1,"Too crowded, could be improved.",Improve food quality.
+1154,Tech Fest,4,"Average experience, nothing special.",Add more workshops.
+1155,Sports Day,2,Good effort but needs better management.,Add cultural programs.
+1156,Tech Fest,3,"Average experience, nothing special.",Better coordination.
+1157,Workshop,4,Excellent! Learned a lot.,Add cultural programs.
+1158,Hackathon,5,Could improve in scheduling and planning.,Better coordination.
+1159,Tech Fest,1,Could improve in scheduling and planning.,Better coordination.
+1160,Sports Day,5,Good effort but needs better management.,Keep up the good work.
+1161,Sports Day,4,Excellent! Learned a lot.,Increase event duration.
+1162,Tech Fest,4,Good effort but needs better management.,Add more workshops.
+1163,Hackathon,4,It was well organized.,Add cultural programs.
+1164,Tech Fest,5,Could improve in scheduling and planning.,Provide more seating.
+1165,Sports Day,4,"Too crowded, could be improved.",Add more workshops.
+1166,Cultural Night,5,Food and facilities were disappointing.,Increase event duration.
+1167,Workshop,4,Amazing coordination and energy.,Add more workshops.
+1168,Sports Day,3,Excellent! Learned a lot.,Need better scheduling.
+1169,Tech Fest,4,"Great event, really enjoyed it!",Provide more seating.
+1170,Workshop,5,Good effort but needs better management.,Increase event duration.
+1171,Tech Fest,2,Amazing coordination and energy.,Keep up the good work.
+1172,Tech Fest,4,"Great event, really enjoyed it!",Add cultural programs.
+1173,Cultural Night,2,Amazing coordination and energy.,Reduce entry fee.
+1174,Workshop,3,Food and facilities were disappointing.,Increase event duration.
+1175,Workshop,1,"Great event, really enjoyed it!",Improve food quality.
+1176,Cultural Night,3,"Average experience, nothing special.",Add cultural programs.
+1177,Sports Day,4,Loved the activities and participation.,Increase event duration.
+1178,Tech Fest,2,"Average experience, nothing special.",Need better scheduling.
+1179,Hackathon,2,Could improve in scheduling and planning.,Reduce entry fee.
+1180,Tech Fest,5,Loved the activities and participation.,Need better scheduling.
+1181,Tech Fest,2,"Average experience, nothing special.",Reduce entry fee.
+1182,Sports Day,5,Loved the activities and participation.,Improve food quality.
+1183,Tech Fest,1,Loved the activities and participation.,Add cultural programs.
+1184,Cultural Night,4,"Too crowded, could be improved.",Keep up the good work.
+1185,Cultural Night,5,Good effort but needs better management.,Need better scheduling.
+1186,Workshop,1,Good effort but needs better management.,Need better scheduling.
+1187,Hackathon,2,"Too crowded, could be improved.",Better coordination.
+1188,Tech Fest,2,Amazing coordination and energy.,Reduce entry fee.
+1189,Tech Fest,1,It was well organized.,Invite more guest speakers.
+1190,Sports Day,2,Amazing coordination and energy.,Add cultural programs.
+1191,Cultural Night,1,"Great event, really enjoyed it!",Reduce entry fee.
+1192,Hackathon,5,"Great event, really enjoyed it!",Better coordination.
+1193,Workshop,5,Loved the activities and participation.,Add more workshops.
+1194,Cultural Night,1,"Average experience, nothing special.",Reduce entry fee.
+1195,Workshop,5,"Average experience, nothing special.",Keep up the good work.
+1196,Sports Day,5,Good effort but needs better management.,Add cultural programs.
+1197,Sports Day,5,Excellent! Learned a lot.,Better coordination.
+1198,Tech Fest,3,Amazing coordination and energy.,Add more workshops.
+1199,Hackathon,4,Could improve in scheduling and planning.,Provide more seating.
+1200,Workshop,2,Food and facilities were disappointing.,Better coordination.
